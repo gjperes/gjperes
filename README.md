@@ -12,6 +12,7 @@ Most of my repositories are school activities or personal learning projects.
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f7df1e)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=787cb5)
+![](https://img.shields.io/badge/Code-C_Language-informational?style=flat&logo=C&logoColor=white&color=5e97d0)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=787cb5)
 ![](https://img.shields.io/badge/Tool-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=f29111)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=f34f29)
