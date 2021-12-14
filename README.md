@@ -1,8 +1,10 @@
 ### Welcome 👋
 
-Welcome to my profile.
+Most of my repositories are school activities or personal learning projects.
 
-- 🔭 I’m currently working on /todolist-ds122
+- 🔭 I’m currently working on /todolist-ds122 and my README
+- 🌱 I’m currently learning JavaScript and SQL
+- 🤔 I'm planning to learn React and MongoDB (NoSQL)
 
 <!--
 **gjperes/gjperes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
