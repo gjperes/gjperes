@@ -3,9 +3,10 @@
 
 Most of my repositories are school activities or personal learning projects.
 
-- 🔭 I’m currently working on /todolist-ds122 and my README
-- 🌱 I’m currently learning JavaScript and SQL
-- 🤔 I'm planning to learn React and MongoDB (NoSQL)
+- 👨‍💻 I’m currently working on no project... 🥲
+- 🎉 I've concluded the alpha version of /todolist-ds122 with two colleagues
+- 📘 I’m currently learning and improving my knowledge in JavaScript (focus), SQL (MySQL and PostgreSQL)
+- 🤔 I'm planning to learn the MERN stack, with focus in React and MongoDB (NoSQL)
 
 ### 🛠️ Technologies && Tools
 ***
