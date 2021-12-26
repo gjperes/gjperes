@@ -3,7 +3,7 @@
 
 Most of my repositories are school activities or personal learning projects.
 
-- 👨‍💻 I’m currently working on no project... 🥲
+- 👨‍💻 I’m currently working on a few Front End projects from [Frontend Mentor](https://www.frontendmentor.io/)
 - 🎉 I've concluded the alpha version of /todolist-ds122 with two colleagues
 - 📘 I’m currently learning and improving my knowledge in JavaScript and Relational Databases (MySQL and PostgreSQL)
 - 🤔 I'm planning to learn the MERN stack, creating a few projects and better learning React & MongoDB (NoSQL), and Java
