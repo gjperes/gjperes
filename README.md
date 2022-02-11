@@ -3,17 +3,17 @@
 
 Most of my repositories are school activities or personal learning projects.
 
-- 👨‍💻 I’m currently working on a few Front End projects from [Frontend Mentor](https://www.frontendmentor.io/)
-- 🎉 I've concluded the alpha version of /todolist-ds122 with two colleagues
-- 📘 I’m currently learning and improving my knowledge in JavaScript and Relational Databases (MySQL and PostgreSQL)
-- 🤔 I'm planning to learn the MERN stack, creating a few projects and better learning React & MongoDB (NoSQL), and Java
+- 🔭 I’m currently improving my knowledge in JavaScript + Web Development in general and C Language.
+- 🎉 I've concluded the alpha version of /todolist-ds122 with two colleagues. Hope to redo this project using the MERN stack in the future.
+- 📘 Learning Java + Object Oriented Programming && Data Structures with C.
+- 🤔 I'm planning to learn React + Next.
 
 ### 🛠️ Technologies && Tools
 ***
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f7df1e)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=787cb5)
 ![](https://img.shields.io/badge/Code-C_Language-informational?style=flat&logo=C&logoColor=white&color=5e97d0)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=f89820)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=264de4)
 ![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=SASS&logoColor=white&color=cc6699)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=787cb5)
