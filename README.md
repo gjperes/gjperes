@@ -3,7 +3,7 @@
 
 Most of my repositories are school activities or personal learning projects.
 
-- 🔭 I’m currently improving my knowledge in JavaScript + Web Development in general and C Language.
+- 🔭 I’m currently improving my knowledge in JavaScript + Web Development in general, and C Language.
 - 🎉 I've concluded the alpha version of /todolist-ds122 with two colleagues. Hope to redo this project using the MERN stack in the future.
 - 📘 Learning Java + Object Oriented Programming && Data Structures with C.
 - 🤔 I'm planning to learn React + Next.
