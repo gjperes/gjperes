@@ -1,20 +1,11 @@
 ### 👋 Hi, welcome! 
 ***
 
-Most of my repositories are school activities or personal learning projects.
+My repositories are school activities or personal learning projects.
 
-- 🔭 I’m currently improving my knowledge in Web Development and C Language.
-- 🎉 I've concluded the alpha version of /todolist-ds122 with two colleagues. Hope to redo this project using the React and Laravel/Node in the future.
-- 📘 Learning Java, React and Data Structures with C.
-
-### 🛠️ Technologies && Tools
-***
-
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f7df1e)
-![](https://img.shields.io/badge/Code-C_Language-informational?style=flat&logo=C&logoColor=white&color=5e97d0)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=f89820)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=787cb5)
-![](https://img.shields.io/badge/Tool-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=f29111)
+- 🔭 I’m currently improving my knowledge in Web Development and Relational Databases.
+- 🎉 I've concluded the alpha version of /todolist-ds122 with two colleagues. Hope to redo this project with MVC in the future.
+- 📘 Learning Java, React, and data structures with C.
 
 <!--
 **gjperes/gjperes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
