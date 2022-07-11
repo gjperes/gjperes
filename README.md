@@ -4,8 +4,8 @@
 My repositories are school activities or personal learning projects.
 
 - 🔭 I’m currently improving my knowledge in Web Development and Relational Databases.
-- 🎉 I've concluded the alpha version of /todolist-ds122 with two colleagues. Hope to redo this project with MVC in the future.
-- 📘 Learning Java, React, and data structures with C.
+- 🎉 I've concluded the alpha version of /todolist-ds122 with two colleagues. Hope to redo this project using MVC design in the future.
+- 📘 Trying to improve in Java, TypeScript, and React.
 
 <!--
 **gjperes/gjperes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
