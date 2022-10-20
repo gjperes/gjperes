@@ -4,7 +4,7 @@
 My repositories are mainly college activities and projects, for learning purposes.
 
 - 🔭 Currently I'm a employee at Vivo (Telefonica Brasil), as a Software Development Intern.
-- 🎉 I've recently concluded a really cool JavaEE application, with a few colleagues, that you can check out in the following repo: [SistemaBeibe](ttps://github.com/Mateus-Wosniaki/SistemaBeibe).
+- 🎉 I've recently concluded a really cool JavaEE application, with a few colleagues, that you can check out in the following repo: [SistemaBeibe](https://github.com/Mateus-Wosniaki/SistemaBeibe).
 - 📘 I’m currently learning Microservices Architecture - using Spring, Angular, Nodejs and RabbitMQ - and Android Development, with Java.
 
 <!--
