@@ -3,9 +3,9 @@
 
 My repositories are mainly college activities and projects, for learning purposes.
 
-- 🔭 Currently I'm a employee at Vivo (Telefonica Brasil), as a Junior Software Developer.
-- 🎉 I've recently concluded a really cool JavaEE application, with a few colleagues, that you can check out in the following repo: [SistemaBeibe](https://github.com/Mateus-Wosniaki/SistemaBeibe).
-- 📘 I’m currently learning Microservices and Cloud Architecture - utilizing Spring Boot, Angular, Nodejs and RabbitMQ.
+- 🔭 Currently I'm a employee at Vivo (Telefonica Brasil), as a Software Developer.
+- 📘 I’m currently learning Microservices and Cloud Architecture - focusing on Spring Boot.
+- 🌱 I’m currently learning Golang and Kubernetes
 
 <!--
 **gjperes/gjperes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
