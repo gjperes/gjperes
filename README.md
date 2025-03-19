@@ -2,9 +2,6 @@
 ***
 
 My repositories are mainly college activities and projects, for learning purposes.
-
-- 🔭 Currently I'm a employee at Vivo (Telefonica Brasil), as a Software Developer.
-- 📘 I’m currently learning Microservices and Cloud Architecture - focusing on Spring Boot.
 - 🌱 I’m currently learning Golang and Kubernetes
 
 <!--
